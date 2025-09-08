@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" width="150px">
+  <img src="images/stick.jpg" width="300px">
 </p>
 
 <h1 align="center">👁️‍🦯 Be-My-Eyes Smart Stick</h1>
@@ -16,36 +16,39 @@
 ---
 
 ## ✨ Features
-- 🚧 Detects obstacles, stairs, and drops  
-- 💧 Detects water and slippery surfaces  
-- 🤖 Recognizes faces, objects, and tracks lines (HuskyLens AI)  
-- 🫀 Monitors heart rate, body temperature, oxygen level, stress  
-- 📍 Sends GPS location & emergency SMS (GSM module)  
-- 🎤 Vibration + voice alerts for safe navigation  
-- 📱 Mobile app support for health & safety monitoring  
+- 🚧 **Obstacle Detection** – Ultrasonic + IR sensors detect barriers, stairs, and drops  
+- 💧 **Water Detection** – Alerts user about wet/slippery surfaces  
+- 🤖 **AI Vision (HuskyLens)** – Face recognition, object detection, line & color tracking  
+- 🫀 **Health Monitoring** – Heart rate, body temperature, SpO₂, stress sensors  
+- 📍 **GPS + GSM Alerts** – Sends real-time location & emergency SMS to caregivers  
+- 🎤 **Smart Feedback** – Vibration motor + voice alerts for safe navigation  
+- 📱 **Mobile App Integration** – Displays health data, location & emergency notifications  
 
 ---
 
 ## 🛠️ Hardware Used
 - Arduino Mega 2560  
-- Ultrasonic + IR sensors  
+- Ultrasonic & Infrared sensors  
 - HuskyLens AI Camera  
-- GSM (SIM900A) + GPS (Neo-6M)  
+- GSM Module (SIM900A)  
+- GPS Module (Neo-6M)  
 - Water detection sensor  
 - Vibration motor & buzzer  
-- Mini MP3 player module (for voice alerts)  
-- Health sensors: Heart rate, Temperature, SpO₂, GSR  
-- Battery + XL6009 power converter  
+- Mini MP3 Player Module (voice alerts)  
+- Health Sensors (Heart rate, Temperature, SpO₂, GSR)  
+- XL6009 Power Converter + Battery Pack  
 
 ---
 
 ## 💻 Software
 - Arduino IDE  
-- C/C++ (Arduino sketches)  
+- C/C++ Arduino sketches  
 - HuskyLens & GSM libraries  
-- Mobile app for live data  
+- Mobile App for monitoring  
 
+---
 
+## 📂 Repository Files
 
 
 
