@@ -45,15 +45,7 @@
 - HuskyLens & GSM libraries  
 - Mobile app for live data  
 
----
 
-## 📂 Repository Files
-📁 Be-My-Eyes
-├── SmartStick_DetectionSystem.ino # Obstacle + water detection
-├── SmartStick_FaceRecognition.ino # Face recognition (HuskyLens)
-├── Smart_Stick_GSM_GPS.ino # GSM + GPS alerts
-├── object_recognition_huskylens.ino # Object recognition
-├── Multi_Feature_Smart_Stick_Paper.docx # Research paper
-└── README.md # Project documentation
+
 
 
